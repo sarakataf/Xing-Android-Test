@@ -1,5 +1,5 @@
-XING Android Coding Challenge
-=============================
+Sara Kataf Implementation of XING Android Coding Challenge
+==========================================================
 
 This challenge would give us an idea about your coding skills. You get access to this
 repository for 24 hours.
